@@ -26,9 +26,9 @@ An AI-powered virtual assistant for medical stores that recommends appropriate o
 2. Create and activate a virtual environment:
 
    ```bash
-python -m venv venv
-source venv/bin/activate  # On Linux use 
-.venv\Scripts\activate  # On Windows use 
+   python -m venv venv
+   source venv/bin/activate  # On Linux use 
+   .venv\Scripts\activate  # On Windows use 
 ```
 
 ### Install dependencies:

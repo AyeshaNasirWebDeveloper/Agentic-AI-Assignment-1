@@ -18,23 +18,6 @@ A smart agent-powered bot that provides comprehensive country information includ
    - Formats all information beautifully
 3. Returns complete country profile
 
-## Example Output 📋
-┌─────────────────────────────────────┐
-│ COUNTRY PROFILE                     │
-├─────────────────────────────────────┤
-│ Country: Italy                      │
-│ Capital: Rome                       │
-│ Language: Italian                   │
-│ Population: 60 million              │
-├─────────────────────────────────────┤
-│ Must-See: Colosseum in Rome         |
-│ Must-Try: Pizza Margherita - Classic│
-│ tomato, mozzarella & basil          │
-│ Did You Know: Italy has more UNESCO │
-│ World Heritage Sites than any other │
-│ country                             │
-└─────────────────────────────────────┘
-
 text
 
 ## Installation 🛠️
@@ -42,8 +25,8 @@ text
 1. Clone the repository:
    ```bash
    git clone https://github.com/AyeshaNasirWebDeveloper/Agentic-AI-Assignment-1/country-info-bot.git
-   cd country-info-bot
-Set up environment:
+
+2. Set up environment:
 
 bash
 python -m venv .venv
@@ -63,14 +46,14 @@ bash
 python main.py
 Then enter country names when prompted (type 'quit' to exit).
 
-Requirements 📦
+## Requirements 📦
 Python 3.8+
 
 agents framework
 
 Google Gemini API key
 
-Contributing 🤝
+## Contributing 🤝
 Contributions welcome! Please:
 
 Fork the repository
@@ -79,7 +62,7 @@ Create a feature branch
 
 Submit a pull request
 
-License 📜
+## License 📜
 MIT License - see LICENSE for details
 
 Made with ❤️ by [Ayesha Nasir] | https://linktr.ee/ayesha_nasir

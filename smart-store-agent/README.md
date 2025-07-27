@@ -25,12 +25,12 @@ An AI-powered virtual assistant for medical stores that recommends appropriate o
 
 2. Create and activate a virtual environment:
 
-bash
+   ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 Install dependencies:
 
-bash
+   ```bash
 Create a .env file and add your Gemini API key:
 
 env
@@ -38,7 +38,7 @@ GEMINI_API_KEY=your_api_key_here
 Usage
 Run the application:
 
-bash
+```bash
 uv run chainlit run suggester.py
 Open your browser to:
 

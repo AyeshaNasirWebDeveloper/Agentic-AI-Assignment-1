@@ -25,25 +25,32 @@ text
 1. Clone the repository:
    ```bash
    git clone https://github.com/AyeshaNasirWebDeveloper/Agentic-AI-Assignment-1/country-info-bot.git
+   ```
 
 2. Set up environment:
 
-bash
+```bash
 python -m venv .venv
 source .venv/bin/activate  # Linux/Mac
 .venv\Scripts\activate     # Windows
-Install dependencies:
+```
 
-bash
+## Install dependencies:
+
+```bash
 Create .env file:
 
 env
 GEMINI_API_KEY=your_api_key_here
 Usage 🚀
-Run the bot:
+```
 
-bash
+## Run the bot:
+
+```bash
 python main.py
+```
+
 Then enter country names when prompted (type 'quit' to exit).
 
 ## Requirements 📦

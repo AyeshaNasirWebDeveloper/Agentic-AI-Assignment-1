@@ -34,7 +34,7 @@ An AI-powered virtual assistant for medical stores that recommends appropriate o
 ### Install dependencies:
 
    ```bash
-Create a .env file and add your Gemini API key:
+   Create a .env file and add your Gemini API key:
 
 env
 GEMINI_API_KEY=your_api_key_here
